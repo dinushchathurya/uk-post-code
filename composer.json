@@ -1,0 +1,16 @@
+{
+    "name": "dinushchathurya/uk-post-code",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "Dinushchathurya\\UKPostCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dinushchathurya",
+            "email": "dinushchathurya21@gmail.com"
+        }
+    ],
+    "require": {}
+}
