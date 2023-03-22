@@ -1,6 +1,7 @@
 {
     "name": "dinushchathurya/uk-post-code",
     "type": "package",
+    "license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
             "Dinushchathurya\\UKPostCode\\": "src/"
