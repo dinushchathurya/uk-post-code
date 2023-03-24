@@ -1,13 +1,15 @@
 {
     "name": "dinushchathurya/uk-post-code",
+    "description": "This package use to validate UK post code",
+    "keywords": ["uk", "post", "uk post code", "postcode", "postcode validator", "uk postcode validator", "uk postcode", "uk post code validator"],
     "type": "package",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "dinushchathurya",
             "email": "dinushchathurya21@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Dinushchathurya\\UkPostcodeValidator\\": "src/"
